@@ -58,7 +58,7 @@ h3 {
 </head>
 <body>
   <h1 class="inline purple">Redux</h1>
-  <h3 class="inline purple-bg rounded">v4.0.5</h3>
+  <h3 class="inline purple-bg rounded">v<?=$argv[1]?></h3>
   <h1>Documentation</h1>
   <br /><br /><br />
   <div class="center">
